@@ -91,5 +91,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 For any questions or suggestions, please contact:
-- Harsh Singh: [harshjuly12@gmail.com](harshjuly12@gmail.com)
-- GitHub: [harshjuly12](https://github.com/harshjuly12)
+- Moumita Baidya
+- baidyamoumita022@gmail.com
